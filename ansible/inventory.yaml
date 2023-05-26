@@ -1,0 +1,12 @@
+virtualmachines:
+  hosts:
+    vm01:
+      ansible_host: 52.39.192.172
+    vm02:
+      ansible_host: 35.93.160.254
+    vm03:
+      ansible_host: 35.89.202.218
+
+
+
+
